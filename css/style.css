@@ -4,7 +4,9 @@
 */
 
 
-
+.center-content {
+  margin-left: 60px;
+}
 
 .mdl-layout__header-row {
   background-color: green;
